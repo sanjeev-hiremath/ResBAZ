@@ -2,6 +2,7 @@ my first bio line
 
 more of me
 
+<<<<<<< HEAD
 Who am I ?
 
 This is a long standing question I have tried to find an answer.
@@ -10,3 +11,6 @@ I think I know now, but I have almost forgotten what I knew yesterday.
 
 So I am what I am today..
 
+=======
+Sanjeev is a good man
+>>>>>>> c167d7d49fc3d47f69102391b1fd1b13ba415abc
